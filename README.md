@@ -154,3 +154,5 @@ We welcome contributions. Please follow these
 
 We use GitHub issues for tracking requests and bugs. Please post questions to
 the MediaPipe Stack Overflow with a `mediapipe` tag.
+
+https://google.github.io/mediapipe/solutions/face_mesh.html
